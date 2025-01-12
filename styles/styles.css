@@ -288,7 +288,7 @@
   }
   /* news-latteer */
   .sub {
-    background-color: rgb(198, 228, 214);
+    background-color:#d5f1b5ab;
     padding: 80px 100px;
     border-radius: 24px;
   }
@@ -358,4 +358,6 @@
   .social-icons img {
     margin: 0 8px;
   }
-  
+  footer{
+    margin-bottom: 10px;
+  }
