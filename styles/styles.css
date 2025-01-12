@@ -168,7 +168,7 @@
   .news-1 {
     display: flex;
     border-radius: 24px;
-    background: #f1ececab;
+    background: #d5f1b5ab;
     padding: 48px;
     align-items: flex-start;
     gap: 32px;
@@ -206,7 +206,7 @@
   .news-2 {
     display: flex;
     border-radius: 24px;
-    background: #eae7e7ab;
+    background: #d5f1b5ab;
     padding: 48px;
     align-items: flex-start;
     gap: 32px;
